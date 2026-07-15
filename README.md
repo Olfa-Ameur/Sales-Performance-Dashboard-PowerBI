@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard - Power BI
+
 
 An interactive Power BI dashboard designed to transform raw sales data into actionable business insights through data modeling, DAX calculations, and effective visual storytelling.
 
